@@ -1,0 +1,8 @@
+# iam user credentials
+user
+
+# ansile configuration file
+ansible.cfg
+
+# hosts
+inventory
